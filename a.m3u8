@@ -1,253 +1,139 @@
-#EXTM3U x-tvg-url=""
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",T Sports
-http://stream.amrbd.com:8082/kn10a/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Ten1HD
-http://stream.amrbd.com:8082/Ten1HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Ten2HD
-http://stream.amrbd.com:8082/Ten2HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Ten3HD
-http://stream.amrbd.com:8082/Ten3HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",ESPN
-http://stream.amrbd.com:8082/ESPN/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",SonySix
-http://stream.amrbd.com:8082/SonySix/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star Sports 1
-http://stream.amrbd.com:8082/kn1a/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star Sports 2
-http://stream.amrbd.com:8082/kn2a/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star Sports Select 1
-http://stream.amrbd.com:8082/kn3a/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star Sports Select 2
-http://stream.amrbd.com:8082/kn5a/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Adsports 1
-http://stream.amrbd.com:8082/Adsports1/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Adsports 2
-http://stream.amrbd.com:8082/Adsports2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Adsports 3
-http://stream.amrbd.com:8082/Adsports3/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Adsports 4
-http://stream.amrbd.com:8082/Adsports4/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",colorsbangla
-http://stream.amrbd.com:8082/colorsbangla/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",ZeeBanglacinema
-http://stream.amrbd.com:8082/ZeeBanglacinema/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Sonyaath
-http://stream.amrbd.com:8082/Sonyaath/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star-Jalsha
-http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",ZeeBanglaHD
-http://stream.amrbd.com:8082/ZeeBanglaHD/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Jalshamovies
-http://stream.amrbd.com:8082/Jalshamovies/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",khushboo
-http://stream.amrbd.com:8082/khushboo/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",abp
-http://stream.amrbd.com:8082/abp/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",SangeetBangla
-http://stream.amrbd.com:8082/SangeetBangla/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Ruposhi-Bangl
-http://stream.amrbd.com:8082/Ruposhi-Bangla/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Dhoom-Music
-http://stream.amrbd.com:8082/Dhoom-Music/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Akash-Aaath
-http://stream.amrbd.com:8082/Akash-Aaath/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",DBC-NEWS
-http://stream.amrbd.com:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Ekattor-tv
-http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Atn-News
-http://stream.amrbd.com:8082/Atn-News/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Independent-Tv
-http://stream.amrbd.com:8082/Independent-Tv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Jamuna-TV
-http://stream.amrbd.com:8082/Jamuna-TV/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Somoy-TV
-http://stream.amrbd.com:8082/Somoy-TV/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",News24bd
-http://stream.amrbd.com:8082/News24bd/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Channel24
-http://stream.amrbd.com:8082/Channel24/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",ATN-Bangla
-http://stream.amrbd.com:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Channel-i
-http://stream.amrbd.com:8082/Channel-i/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Ekushey-TV
-http://stream.amrbd.com:8082/Ekushey-TV/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Ntv
-http://stream.amrbd.com:8082/Ntv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",RTV
-http://stream.amrbd.com:8082/RTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",SATV
-http://stream.amrbd.com:8082/SATV/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",MASRANGA
-http://stream.amrbd.com:8082/MASRANGA/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Gazi TV
-http://stream.amrbd.com:8082/GAZI/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Bangla-TV
-http://stream.amrbd.com:8082/Bangla-TV/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",BanglaVision
-http://stream.amrbd.com:8082/BanglaVision/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Boishakhi
-http://stream.amrbd.com:8082/Boishakhi/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Deepto-TV
-http://stream.amrbd.com:8082/Deepto-TV/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Duronto_TV
-http://stream.amrbd.com:8082/Duronto_TV/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Desh_Tv
-http://stream.amrbd.com:8082/Desh_Tv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",GaanBangla
-http://stream.amrbd.com:8082/GaanBangla/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",MohonaTV
-http://stream.amrbd.com:8082/MohonaTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",MyTV
-http://stream.amrbd.com:8082/MyTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Nagorik-TV
-http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",anandotv
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Anando TV [4]
 http://stream.amrbd.com:8082/anandotv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",BijoyTv
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",ATN Bangla [4]
+http://stream.amrbd.com:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",ATN News [4]
+http://stream.amrbd.com:8082/Atn-News/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Bangla TV [4]
+http://stream.amrbd.com:8082/Bangla-TV/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Bijoy TV [4]
 http://stream.amrbd.com:8082/BijoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",MovieBangla
-http://stream.amrbd.com:8082/MovieBangla/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Btv
-http://stream.amrbd.com:8082/Btv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Shangshad_TV
-http://stream.amrbd.com:8082/Shangshad_TV/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Btv_World
-http://stream.amrbd.com:8082/Btv_World/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Macau_Lotus
-http://stream.amrbd.com:8082/Macau_Lotus/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Fyi_Hd
-http://stream.amrbd.com:8082/Fyi_Hd/tracks-v1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Mnplus-hd
-http://stream.amrbd.com:8082/Mnplus-hd/tracks-v1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Romedy_now
-http://stream.amrbd.com:8082/Romedy_now/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Movies_Now_2
-http://stream.amrbd.com:8082/Movies_Now_2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",MNX
-http://stream.amrbd.com:8082/MNX/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",And-Flix
-http://stream.amrbd.com:8082/And-Flix/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",AndPicturesHD
-http://stream.amrbd.com:8082/AndPicturesHD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",ZeePriveHD
-http://stream.amrbd.com:8082/ZeePriveHD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",AndTVHD
-http://stream.amrbd.com:8082/AndTVHD/tracks-v1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",colorsindia
-http://stream.amrbd.com:8082/colorsindia/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Hum-tv
-http://stream.amrbd.com:8082/Hum-tv/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",MTV-India
-http://stream.amrbd.com:8082/MTV-India/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",vh1_music
-http://stream.amrbd.com:8082/vh1_music/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",B4U Movies
-http://stream.amrbd.com:8082/Rishteycineplex/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Setmax
-http://stream.amrbd.com:8082/Setmax/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Setmax HD
-http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",SonyTVHD
-http://stream.amrbd.com:8082/SonyTVHD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star_Plus
-http://stream.amrbd.com:8082/Star_Plus/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",StarBharat
-http://stream.amrbd.com:8082/StarBharat/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",StarGold
-http://stream.amrbd.com:8082/StarGold/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",ZeeAction
-http://stream.amrbd.com:8082/ZeeAction/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",ZeeStudiohd
-http://stream.amrbd.com:8082/ZeeStudiohd/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",ZeeCinemaHD
-http://stream.amrbd.com:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Xplore
-http://stream.amrbd.com:8082/Xplore/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Zee_Tv
-http://stream.amrbd.com:8082/ZeeTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Entert-ten
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Boishakhi [4]
+http://stream.amrbd.com:8082/Boishakhi/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Channel 24 [4]
+http://stream.amrbd.com:8082/Channel24/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Channel I [4]
+http://stream.amrbd.com:8082/Channel-i/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",DBC News [4]
+http://stream.amrbd.com:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Deepto TV [4]
+http://stream.amrbd.com:8082/Deepto-TV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Ekattor TV [4]
+http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Ekushey TV [4]
+http://stream.amrbd.com:8082/Ekushey-TV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Gaan Bangla [4]
+http://stream.amrbd.com:8082/GaanBangla/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Independent TV [4]
+http://stream.amrbd.com:8082/Independent-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Jamuna TV [4]
+http://stream.amrbd.com:8082/Jamuna-TV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Somoy TV [4]
+http://stream.amrbd.com:8082/Somoy-TV/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",News 24 [4]
+http://stream.amrbd.com:8082/News24bd/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Maasranga [4]
+http://stream.amrbd.com:8082/MASRANGA/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Mohona TV [4]
+http://stream.amrbd.com:8082/MohonaTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",MY TV [4]
+http://stream.amrbd.com:8082/MyTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Nagorik TV [4]
+http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",NTV [4]
+http://stream.amrbd.com:8082/Ntv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",RTV [4]
+http://stream.amrbd.com:8082/RTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",SATV [4]
+http://stream.amrbd.com:8082/SATV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Colors Bangla [4]
+http://stream.amrbd.com:8082/colorsbangla/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Entert Ten [4]
 http://stream.amrbd.com:8082/Entert-ten/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Zoom
-http://stream.amrbd.com:8082/Zoom/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",B4umuisc
-http://stream.amrbd.com:8082/B4umuisc/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",9xm
-http://stream.amrbd.com:8082/9XM/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",9x-Jalwa
-http://stream.amrbd.com:8082/9X-Jalwa/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Masti-Music
-http://stream.amrbd.com:8082/Masti-Music/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Masti-Music
-http://stream.amrbd.com:8082/Masti-Music/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",ZeeEtc
-http://stream.amrbd.com:8082/ZeeEtc/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Zee_Classic
-http://stream.amrbd.com:8082/Zee_Classic/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",bflix
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Sangeet Bangla [4]
+http://stream.amrbd.com:8082/SangeetBangla/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Sony Aath [4]
+http://stream.amrbd.com:8082/Sonyaath/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star Jalsha HD [4]
+http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star Jalsha Movies HD [4]
+http://stream.amrbd.com:8082/Jalshamovies/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Zee Bangla Cinema [4]
+http://stream.amrbd.com:8082/ZeeBanglacinema/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",And Flix [4]
+http://stream.amrbd.com:8082/And-Flix/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",And Prive HD [4]
+http://stream.amrbd.com:8082/ZeePriveHD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Bflix Movies [4]
 http://stream.amrbd.com:8082/bflix/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",SonyPix
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Colors [4]
+http://stream.amrbd.com:8082/colorsindia/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Sony Max HD [4]
+http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Sony Pix HD [4]
 http://stream.amrbd.com:8082/SonyPix/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",AxnHD
-http://stream.amrbd.com:8082/AxnHD/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star Movies HD
-http://stream.amrbd.com:8082/kn7a/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Sony_Sab
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Sony Sab HD [4]
 http://stream.amrbd.com:8082/Sony_Sab/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Animal_Planent
-http://stream.amrbd.com:8082/Animal_Planent/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Discoveryscience
-http://stream.amrbd.com:8082/Discoveryscience/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Discovery-Tv
-http://stream.amrbd.com:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",TLC_World
-http://stream.amrbd.com:8082/TLC_World/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Bbc-earth-hd
-http://stream.amrbd.com:8082/Bbc-Earth/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",NAT-GEO-HD
-http://stream.amrbd.com:8082/Nat-Geo/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Nat_Geo_wild
-http://stream.amrbd.com:8082/Nat_Geo_wild/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Nat-GEO-P
-http://stream.amrbd.com:8082/Nat-GEO-P/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",History TV 18
-http://stream.amrbd.com:8082/kn9a/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Cgtn
-http://stream.amrbd.com:8082/Cgtn-News/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Jeet-Prime
-http://stream.amrbd.com:8082/Jeet-Prime/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Fox
-http://stream.amrbd.com:8082/kn7a/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Fox_life
-http://stream.amrbd.com:8082/Fox_life/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star_World_Ind
-http://stream.amrbd.com:8082/Star_World_Ind/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Colors_infinity
-http://stream.amrbd.com:8082/Colors_infinity/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",BBC_World
-http://stream.amrbd.com:8082/BBC_World/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Aljazeera
-http://stream.amrbd.com:8082/Aljazeera/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Cnn_news
-http://stream.amrbd.com:8082/Cnn_news/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Voa_news
-http://stream.amrbd.com:8082/Voa_news/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",India_News
-http://stream.amrbd.com:8082/India_News/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Times_now
-http://stream.amrbd.com:8082/Times_now/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Dw
-http://stream.amrbd.com:8082/Dw/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Sony_yay
-http://stream.amrbd.com:8082/Sony_yaa/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Disney_Junior
-http://stream.amrbd.com:8082/Disney_Junior/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",nike
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Sony TV HD [4]
+http://stream.amrbd.com:8082/SonyTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star Gold [4]
+http://stream.amrbd.com:8082/StarGold/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Zee Action [4]
+http://stream.amrbd.com:8082/ZeeAction/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Zee Cinema HD [4]
+http://stream.amrbd.com:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Zee Classic [4]
+http://stream.amrbd.com:8082/Zee_Classic/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Zee Studio HD [4]
+http://stream.amrbd.com:8082/ZeeStudiohd/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Zee Tv [4]
+http://stream.amrbd.com:8082/ZeeTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",And Xplore [4]
+http://stream.amrbd.com:8082/Xplore/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",9xm [4]
+http://stream.amrbd.com:8082/9XM/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",9x Jalwa [4]
+http://stream.amrbd.com:8082/9X-Jalwa/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Masti [4]
+http://stream.amrbd.com:8082/Masti-Music/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Zoom [4]
+http://stream.amrbd.com:8082/Zoom/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Nick JR [4]
 http://stream.amrbd.com:8082/nike/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",CartoonNetwork
-http://stream.amrbd.com:8082/CartoonNetwork/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Sonic
-http://stream.amrbd.com:8082/Sonic/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Discovery_kids
-http://stream.amrbd.com:8082/Discovery_kids/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Aljazeera [4]
+http://stream.amrbd.com:8082/Aljazeera/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",BBC World [4]
+http://stream.amrbd.com:8082/BBC_World/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",CNN [4]
+http://stream.amrbd.com:8082/Cnn_news/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Discovery [4]
+http://stream.amrbd.com:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Nat Geo HD [4]
+http://stream.amrbd.com:8082/Nat-Geo/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Sony BBB Earth HD [4]
+http://stream.amrbd.com:8082/Bbc-Earth/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",TLC [4]
+http://stream.amrbd.com:8082/TLC_World/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Adsports 1 HD [4]
+http://stream.amrbd.com:8082/Adsports1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Adsports 2 HD [4]
+http://stream.amrbd.com:8082/Adsports2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Adsports 3 HD [4]
+http://stream.amrbd.com:8082/Adsports3/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Sony Six HD [4]
+http://stream.amrbd.com:8082/SonySix/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Sony Ten 1 HD [4]
+http://stream.amrbd.com:8082/Ten1HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Sony Ten 2 HD [4]
+http://stream.amrbd.com:8082/Ten2HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Sony Ten 3 HD [4]
+http://stream.amrbd.com:8082/Ten3HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star Sports 1 HD [4]
+http://stream.amrbd.com:8082/kn1a/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star Sports 2 HD [4]
+http://stream.amrbd.com:8082/kn2a/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star Sports Select 1 HD [4]
+http://stream.amrbd.com:8082/kn3a/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star Sports Select 2 HD [4]
+http://stream.amrbd.com:8082/kn5a/tracks-v1a1/mono.m3u8
+
